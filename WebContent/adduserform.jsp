@@ -14,8 +14,8 @@
     <select name="country" style="width:155px">  
     <option>Iran</option>  
     <option>Norway</option>  
-    <option>Afghanistan</option>  
-    <option>Berma</option>  
+    <option>USA</option>  
+    <option>Denmark</option>  
     <option>Other</option>  
     </select>  
     </td></tr>  
